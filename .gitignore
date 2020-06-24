@@ -94,3 +94,6 @@ tags
 
 # Ignore the binary
 st
+
+# Ignore the config file
+config.h
