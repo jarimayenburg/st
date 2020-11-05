@@ -212,7 +212,7 @@ ResourcePref resources[] = {
  * Determines how much the terminal will scroll when scrolling using the mouse
  * (Lower is faster)
  */
-const unsigned int mousescrollincrement = 10;
+const unsigned int mousescrollincrement = 40;
 
 /*
  * Internal mouse shortcuts.
