@@ -6,6 +6,12 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "Source Code Pro:pixelsize=14:antialias=true:autohint=true";
+
+/* Spare fonts */
+static char *font2[] = {
+    "Noto Fonts Emoji:pixelsize=14:antialias=true:autohint=true",
+};
+
 static int borderpx = 2;
 
 /*
